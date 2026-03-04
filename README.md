@@ -6,4 +6,4 @@
 
 ## Description
 
-Este trabajo es una plataforma de seguimiento academico que permite a los estudiantes gestionar sus tareas.
+Este trabajo es una plataforma de seguimiento academico que permite a los estudiantes gestionar sus tareas...
